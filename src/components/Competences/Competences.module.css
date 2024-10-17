@@ -1,0 +1,78 @@
+@import "../../vars.css";
+
+
+.container {
+    margin-top: 76px;
+    color: var(--color-text);
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+  
+
+.title {
+    color: var(--color-text);
+    font-size: 35px;
+    font-weight: 700;
+    letter-spacing: 1.75px;
+    text-transform: uppercase;
+  }
+
+
+  .competencesTable a {
+    color: var(--color-text);
+  }
+  
+  .competencesTable a:hover {
+    color: var(--color-primary); 
+  }
+  
+.competencesTable {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+  background-color: var(--color-dark);
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.competencesTable th,
+.competencesTable td {
+  padding: 20px;
+  text-align: left;
+  font-size: 20px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.competencesTable th {
+  background-color: var(--color-primary);
+  font-weight: 700;
+  color: var(--color-text);
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+}
+
+.competencesTable td {
+  color: var(--color-text);
+  background-color: rgba(255, 255, 255, 0.05);
+  transition: background-color 0.3s ease;
+}
+
+.competencesTable tr:hover td {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+@media screen and (max-width: 830px) {
+  .container {
+    padding: 40px 5%;
+  }
+
+  h2 {
+    font-size: 40px;
+  }
+
+  .competencesTable th,
+  .competencesTable td {
+    padding: 15px;
+    font-size: 18px;
+  }
+}

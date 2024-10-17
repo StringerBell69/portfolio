@@ -1,0 +1,19 @@
+[
+  {
+    "title": "Kolus Test",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made so my tutor could prove that i would be of any help in Kolus.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "",
+    "source": "https://gitlab.com/StringerBell69/kolus-project"
+  },
+  {
+    "title": "RacVA",
+    "imageSrc": "projects/project.png",
+    "description": "RacVA will be an app where agencies will put their cars in rental and stop using snapchat.",
+    "skills": ["React", "Express", "Node", "Sass"],
+    "demo": "",
+    "source": ""
+  }
+  
+]
