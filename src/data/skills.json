@@ -8,8 +8,16 @@
     "imageSrc": "skills/css.png"
   },
   {
+    "title": "PHP",
+    "imageSrc": "skills/php.png"
+  },
+  {
     "title": "React",
     "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Vite",
+    "imageSrc": "skills/vite.svg"
   },
   {
     "title": "Node",

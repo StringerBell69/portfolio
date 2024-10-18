@@ -5,7 +5,7 @@ import competences from "../../data/compences.json";
 export const Competences = () => {
   return (
     <div className={styles.container} id="competences">
-      <h2>Competences</h2>
+      <h2 className={styles.title}>Competences</h2>
       <table className={styles.competencesTable}>
         <thead>
           <tr>
@@ -23,7 +23,7 @@ export const Competences = () => {
               </td>
               <td>
                 {competence.link ? (
-                  <a href={competence.link} rel="noopener noreferrer">
+                  <a href={competence.link} target="_blank" rel="noopener noreferrer">
                     {competence.date}
                   </a>
                 ) : (
