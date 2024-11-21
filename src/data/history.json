@@ -1,10 +1,10 @@
 [
   {
-    "role": "Frontend Developper",
+    "role": "(Intership) Frontend Developper",
     "organisation": "Kolus",
     "startDate": "Jun, 2024",
     "endDate": "Jul, 2024",
-    "experiences": ["Worked Api integrations", "Created automated tests"],
+    "experiences": ["Worked Api integrations", "Created automated tests","Added a storting feature"],
     "imageSrc": "history/Kolus.jpeg"
   }
   
