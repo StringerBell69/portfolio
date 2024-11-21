@@ -8,11 +8,11 @@
     "source": "https://gitlab.com/StringerBell69/kolus-project"
   },
   {
-    "title": "Racva",
+    "title": "This Portfolio",
     "imageSrc": "projects/project.png",
-    "description": "RacVA will be an app where agencies will put their cars in rental and stop using snapchat.",
-    "skills": ["React", "NeonDB", "Node", "Saas"],
-    "demo": "#projects",
+    "description": "Made this portfolio following a youtube video then added my own skills to make it better",
+    "skills": ["React", "Vite", "Node"],
+    "demo": "https://danilo-portfolio.netlify.app/",
     "source": "https://github.com/StringerBell69/portfolio"
   },
   {
@@ -21,6 +21,14 @@
     "description": "An web app using Vite, Express, React, TSX, NeonDB and Tailwind, that I made for my girlfriend",
     "skills": ["React", "Express", "Node", "NeonDB"],
     "demo": "https://calendrierlove.netlify.app",
-    "source": "https://github.com/StringerBell69/portfolio"
+    "source": "https://github.com/StringerBell69/calendrier"
+  },
+   {
+    "title": "Racva",
+    "imageSrc": "projects/project.png",
+    "description": "RacVA will be an app where agencies will put their cars in rental and stop using snapchat.",
+    "skills": ["React", "NeonDB", "Node", "Saas"],
+    "demo": "#projects",
+    "source": "https://github.com/StringerBell69/racva"
   }
 ]
