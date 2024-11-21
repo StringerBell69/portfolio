@@ -8,12 +8,19 @@
     "source": "https://gitlab.com/StringerBell69/kolus-project"
   },
   {
-    "title": "RacVA",
+    "title": "Racva",
     "imageSrc": "projects/project.png",
     "description": "RacVA will be an app where agencies will put their cars in rental and stop using snapchat.",
-    "skills": ["React", "Express", "Node", "Sass"],
+    "skills": ["React", "NeonDB", "Node", "Saas"],
     "demo": "#projects",
-    "source": "#projects"
+    "source": "https://github.com/StringerBell69/portfolio"
   }
-  
+  {
+    "title": "Calendrier Amour",
+    "imageSrc": "projects/project.png",
+    "description": "An web app using Vite, Express, React, TSX, NeonDB and Tailwind, that I made for my girlfriend",
+    "skills": ["React", "Express", "Node", "NeonDB"],
+    "demo": "https://calendrierlove.netlify.app",
+    "source": "https://github.com/StringerBell69/portfolio"
+  }
 ]
