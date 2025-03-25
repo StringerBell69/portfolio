@@ -1,4 +1,11 @@
-[
+[{
+    "role": "(Internship) FullStack Developper",
+    "organisation": "Kolus",
+    "startDate": "Mar, 2025",
+    "endDate": "Apr, 2025",
+    "experiences": ["New Funcs developement", "Bug fix","Backend developement"],
+    "imageSrc": "history/Kolus.jpeg"
+  },
   {
     "role": "(Internship) Frontend Developper",
     "organisation": "Kolus",
