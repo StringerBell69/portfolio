@@ -1,31 +1,27 @@
 [
   {
-    "title": "HTML",
-    "imageSrc": "skills/html.png"
-  },
-  {
-    "title": "CSS",
-    "imageSrc": "skills/css.png"
-  },
-  {
-    "title": "PHP",
-    "imageSrc": "skills/php.png"
-  },
-  {
     "title": "React",
     "imageSrc": "skills/react.png"
   },
   {
-    "title": "Vite",
-    "imageSrc": "skills/vite.svg"
+    "title": "TSX",
+    "imageSrc": "skills/tsx.png"
   },
   {
     "title": "Node",
     "imageSrc": "skills/node.png"
   },
   {
-    "title": "MongoDB",
-    "imageSrc": "skills/mongodb.png"
+    "title": "PostgreSQL",
+    "imageSrc": "skills/postgresql.png"
+  },
+  {
+    "title": "Tailwind",
+    "imageSrc": "skills/tailwind.png"
+  },
+  {
+    "title": "Git",
+    "imageSrc": "skills/git.png"
   },
   {
     "title": "Figma",

@@ -4,7 +4,6 @@
     "imageSrc": "projects/project.png",
     "description": "This is a project made so my tutor could prove that i would be of any help in Kolus.",
     "skills": ["React", "Express", "Node"],
-    "demo": "#projects",
     "source": "https://gitlab.com/StringerBell69/kolus-project"
   },
   {
@@ -28,7 +27,14 @@
     "imageSrc": "projects/project.png",
     "description": "RacVA will be an app where agencies will put their cars in rental and stop using snapchat.",
     "skills": ["React", "NeonDB", "Node", "Saas"],
-    "demo": "#projects",
     "source": "https://github.com/StringerBell69/racva/blob/main/README.md"
+  },
+
+  {
+    "title": "Zill",
+    "imageSrc": "projects/project.png",
+    "description": "Zill is an open source app allowing users to quickly sign documents via API or built-in integrations",
+    "skills": ["React", "NeonDB", "Node", "Saas"],
+    "source": "https://github.com/StringerBell69/Zill-app"
   }
 ]
